@@ -29,7 +29,7 @@ class _DigimonListPageState extends State<DigimonListPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Digivice - Digimon Service'),
+        title: const Text('Digivice - App'),
         backgroundColor: Theme.of(context).colorScheme.primary,
         foregroundColor: Colors.white,
       ),

@@ -22,7 +22,7 @@ class DigimonConfigurationWidget extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
-                  'Digimon Service Configuration',
+                  'Digimon Automatic',
                   style: Theme.of(context).textTheme.headlineSmall,
                 ),
                 const SizedBox(height: 16),
