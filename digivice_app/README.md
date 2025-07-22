@@ -174,3 +174,18 @@ Alternatively, run `flutter run` and code generation will take place automatical
 [very_good_analysis_badge]: https://img.shields.io/badge/style-very_good_analysis-B22C89.svg
 [very_good_analysis_link]: https://pub.dev/packages/very_good_analysis
 [very_good_cli_link]: https://github.com/VeryGoodOpenSource/very_good_cli
+
+
+Generate build_runner for the current project:
+
+```sh
+dart run build_runner build --delete-conflicting-outputs
+```
+
+---
+
+## Desafíos Técnicos Principales 🔐
+
+El principal desafío durante el desarrollo de esta prueba técnica fue la implementación de la **encriptación de datos** y la **gestión de contraseñas temporales**. Estos aspectos de seguridad requirieron una investigación profunda y la aplicación de mejores prácticas en criptografía para garantizar la protección adecuada de la información sensible.
+
+La experiencia resultó altamente enriquecedora desde el punto de vista del aprendizaje, ya que permitió adquirir nuevos conocimientos en el ámbito de la seguridad de aplicaciones móviles y explorar tecnologías que no había implementado previamente. El proceso de desarrollo fue particularmente interesante debido a la complejidad técnica involucrada y los retos de integración que surgieron durante la implementación.

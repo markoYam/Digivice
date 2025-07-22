@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "916463802892",
+    "project_id": "digiviceapp-11bc0",
+    "storage_bucket": "digiviceapp-11bc0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916463802892:android:8668f5f44c00fd5ead2c29",
+        "android_client_info": {
+          "package_name": "com.myam.app.digivice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Xq57_KMLHZrtioM1hV7SZUTAVX7S8Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916463802892:android:baa2f5472ec2fb80ad2c29",
+        "android_client_info": {
+          "package_name": "com.myam.app.digivice.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Xq57_KMLHZrtioM1hV7SZUTAVX7S8Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916463802892:android:a28133779d8ec900ad2c29",
+        "android_client_info": {
+          "package_name": "com.myam.app.digivice.stg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Xq57_KMLHZrtioM1hV7SZUTAVX7S8Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
